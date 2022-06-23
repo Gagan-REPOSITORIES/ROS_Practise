@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu20/Documents/ROS_Practise/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu20/Documents/ROS_Practise/install -G Unix Makefiles
