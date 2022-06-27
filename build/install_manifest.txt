@@ -1,0 +1,9 @@
+/home/ubuntu20/Documents/ROS_Practise/install/_setup_util.py
+/home/ubuntu20/Documents/ROS_Practise/install/env.sh
+/home/ubuntu20/Documents/ROS_Practise/install/setup.bash
+/home/ubuntu20/Documents/ROS_Practise/install/local_setup.bash
+/home/ubuntu20/Documents/ROS_Practise/install/setup.sh
+/home/ubuntu20/Documents/ROS_Practise/install/local_setup.sh
+/home/ubuntu20/Documents/ROS_Practise/install/setup.zsh
+/home/ubuntu20/Documents/ROS_Practise/install/local_setup.zsh
+/home/ubuntu20/Documents/ROS_Practise/install/.rosinstall
