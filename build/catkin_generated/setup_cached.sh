@@ -7,7 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/ubuntu20/Documents/ROS_Practise/devel:$CMAKE_PREFIX_PATH"
 export PWD='/home/ubuntu20/Documents/ROS_Practise/build'
-export ROSLISP_PACKAGE_DIRECTORIES='/home/ubuntu20/Documents/ROS_Practise/devel/share/common-lisp'
-export ROS_PACKAGE_PATH="/home/ubuntu20/Documents/ROS_Practise/src:$ROS_PACKAGE_PATH"
